@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+albumentations
+opencv-python-headless
+numpy
+pillow
+gdown
+matplotlib
