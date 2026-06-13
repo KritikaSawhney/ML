@@ -46,7 +46,7 @@ This report covers the final two milestones of the project:
   - Upload image, view predicted mask, colored overlay, and download mask.
   - Alert system for oil spill detection with area percentage.
   - Handles errors and edge cases gracefully.
-- App deployed at: *https://aispillguardosd-khushi-dphgpjtzsaajdk2jrgjxve.streamlit.app/*
+- App deployed at: *https://aispillguardosd-kritika-dphgpjtzsaajdk2jrgjxve.streamlit.app/*
 
 ### 2. **Final Deliverables**
 - **Codebase:** Well-organized with clear folder structure (notebooks, app, reports).

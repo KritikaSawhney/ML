@@ -160,5 +160,5 @@ Milestone 1 has been successfully completed, establishing a robust foundation fo
 Milestone 1 has been completed successfully with all objectives met and deliverables provided. The implemented preprocessing pipeline provides a solid foundation for model development, with comprehensive documentation and quality assurance measures in place. The system is now ready to proceed to Milestone 2 for model development and training.
 
 
-**Prepared by:** Khushi 
+**Prepared by:** Kritika 
 **Date:** 04/09/2025  
